@@ -29,8 +29,8 @@ export const PROFILE = {
   brand: "SO HYUN",
   name: "신소현",
   nameEn: "SHIN SO HYUN",
-  birth: "2000.09.22",              // 공개 꺼려지면 빈 문자열("")로
-  phone: "010-5640-5795",           // 공개 꺼려지면 빈 문자열("")로
+  birth: "",              // 공개 꺼려지면 빈 문자열("")로
+  phone: "",           // 공개 꺼려지면 빈 문자열("")로
   email: "shinso120922@gmail.com",
   location: "Korea · Taiwan",
   // 커버 첫 문장 (자기소개)
