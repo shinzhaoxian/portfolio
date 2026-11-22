@@ -34,8 +34,7 @@ export const PROFILE = {
   email: "shinso120922@gmail.com",
   location: "Korea · Taiwan",
   // 커버 첫 문장 (자기소개)
-  intro:
-    "B2B 대기업 간 리스크를 조율해온 실무 경험을 바탕으로, 고객의 요구를 정확히 읽고 비즈니스 성과로 연결하는 영업을 하겠습니다.",
+ intro: "시장과 고객을 분석하고, 데이터를 활용해 업무를 개선해왔습니다. 제품의 강점을 고객이 구매할 이유로 연결하는 아마존 MD가 되겠습니다.",
 };
 
 // 커버의 Skills & Tools (칩으로 표시)
